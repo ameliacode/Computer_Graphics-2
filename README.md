@@ -1,5 +1,5 @@
 ## Introduction to Computer Graphics with OpenGL ES
-This repository is for Computer Graphics lecture from Korea University.  
+A repository for Computer Graphics lecture from Korea University.  
 
 ### Related links
 * GitHub: [KU-MediaLab](https://github.com/medialab-ku/openGLESbook)
