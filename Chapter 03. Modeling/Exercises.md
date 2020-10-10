@@ -35,7 +35,7 @@
    Solution) Think of it in this way, we all know that a whole circle's angle is total 360 degrees, divide this in every 10 degrees results in 36 sided polygon by its latitude. With the 36 sided polygon, by longtitude, this polygon will be stacked upto 17 layers. (180 degrees divided by 10, however we have to exclude top and bottom, results in 17 layers in total → think as two hemispheres each by each).   
    Add these up, you'll get 612 + (top and bottom vertex) = 614   
    
-   <p align="center"><img src="./img.PNG"></p>
+   <p align="center"><img src="./img.PNG width = 100"></p>
    It actually is 614 vertices in total.
 
 #### 5.
