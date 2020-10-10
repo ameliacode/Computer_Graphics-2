@@ -1,4 +1,4 @@
-## Excercies
+## Exercises
 
 #### 1. Note: You can select any start position as you like, as long as it is in CCW.
 
