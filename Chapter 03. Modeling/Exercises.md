@@ -14,7 +14,7 @@
   
 #### 2. Note: You can select any start position as you like, as long as it is in CCW.
 
-|vertex arrray |  index array |
+|vertex array |  index array |
 |---|---|
 | (0,0,0) | 0 |
 | (1,0,0) | 1 |
@@ -39,7 +39,7 @@
    It actually is 614 vertices total.
 
 #### 5.
-|vertex arrray |  index array |
+|vertex array |  index array |
 |---|---|
 | (0,0,0) | 0 |
 | (1,0,0) | 2 |
