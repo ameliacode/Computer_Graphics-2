@@ -1,6 +1,6 @@
 ## Excercies
 
-1. Note: You can select any start position as you like, as long as it is in CCW.
+##### 1. Note: You can select any start position as you like, as long as it is in CCW.
 
 |vertex array | index array |
 |---|---|
@@ -12,7 +12,7 @@
 |   | 1 |  
 
   
-2. Note: You can select any start position as you like, as long as it is in CCW.
+##### 2. Note: You can select any start position as you like, as long as it is in CCW.
 
 |vertex arrray |  index array |
 |---|---|
@@ -29,15 +29,16 @@
 |         | 1 |
 |         | 2 |  
 
-3. consequently, 24, 6, 24
-4. 614   
+##### 3. consequently, 24, 6, 24
+
+##### 4. 614   
    Solution) Think of it in this way, we all know that a whole circle's angle is total 360 degrees, divide this in every 10 degrees results in 36 sided polygon by its latitude. With the 36 sided polygon, by longtitude, this polygon will be stacked upto 17 layers. (180 degrees divided by 10, however we have to exclude top and bottom, results in 17 layers in total → think as two hemispheres each by each).   
    Add these up, you'll get 612 + (top and bottom vertex) = 614   
    
    <p align="center"><img src="./img.png"></p>
    It actually is 614 vertices total.
 
-5.
+##### 5.
 |vertex arrray |  index array |
 |---|---|
 | (0,0,0) | 0 |
@@ -54,7 +55,7 @@
 |         | 1 |  
 
 
-6. Following formula in page 18,  
+##### 6. Following formula in page 18,  
    
    1) by Euler's polyhedron formula asserts:
    
