@@ -7,3 +7,4 @@ Computer Graphics | Korea University, prof. Han
 
 ### Content Index
 Personal exercise solutions  
+Discussion board(issue) will be opened this month. Feel free to ask questions or share answers.
