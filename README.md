@@ -6,3 +6,4 @@ Computer Graphics | Korea University, prof. Han
 * Youtube: [한정현 컴퓨터그래픽스](https://www.youtube.com/channel/UCfyXTCv0QlZxG1S1rteGI7A)
 
 ### Content Index
+Personal exercise solutions  
