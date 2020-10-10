@@ -57,7 +57,7 @@
 
 #### 6. Following formula in page 18,  
    
-   1) by Euler's polyhedron formula asserts:
+   by Euler's polyhedron formula asserts:
    
    $$ v - e + f = 2 $$
 
