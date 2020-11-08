@@ -1,14 +1,15 @@
 # Exercises
 
 1. 
-(a)
-$$
+(a)  
+
+$$  
 \begin{pmatrix}
  1 & 0 &  d_x \\\\
  0 & 1 &  d_y \\\\
  1 & 0 & 1   
  \end{pmatrix}
-$$
+$$  
 
 (b)
 $$
@@ -28,10 +29,44 @@ $$
  \end{pmatrix}
 $$
 
+2. As $\{u,v,n\}$ is same as world-space basis, a matrix that went through Rotation Matrix would be:
 
-2. 
+$$ 
+R * \begin{pmatrix} 
+1 & 0 & 0 \\\\
+0 & 1 & 0 \\\\ 
+0 & 0 & 1    
+\end{pmatrix} = \begin{pmatrix} 
+0 & 0 & \frac{1}{\sqrt2} \\\\
+0 & 1 & \frac{1}{\sqrt2} \\\\ 
+-1 & 0 & 0    
+\end{pmatrix}
+$$
 
-3. As Rotation Matrix doesn't tackle affine space (ignore last column and row), intuitively, the following matrix is rotated about the y axis, which results in: 
+$$
+R^T * R * \begin{pmatrix} 
+1 & 0 & 0 \\\\
+0 & 1 & 0 \\\\ 
+0 & 0 & 1    
+\end{pmatrix} = R^T * \begin{pmatrix} 
+0 & 0 & \frac{1}{\sqrt2} \\\\
+0 & 1 & \frac{1}{\sqrt2} \\\\ 
+-1 & 0 & 0    
+\end{pmatrix}
+$$
+
+   
+Answer: 
+$$
+ \begin{pmatrix} 
+ 0 & 0 & -1 \\\\
+ -1 & 1 & 0 \\\\ 
+ \sqrt2 & 0 & 0    
+ \end{pmatrix}
+$$
+
+
+4. As Rotation Matrix doesn't tackle affine space (ignore last column and row), intuitively, the following matrix is rotated about the y axis, which results in: 
 
 $$
 R = \begin{pmatrix}
