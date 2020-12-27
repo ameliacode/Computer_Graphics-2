@@ -19,7 +19,9 @@ $$
 
 Top to down, 
 $$
-M_{1,d}^{-1} = I\\
+M_{1,d}^{-1} = I
+$$
+$$
 M_{4,p}^{-1}, M_{4,d}^{-1} = M_{4,p}^{-1}M_{3,d}^{-1}
 $$
 
@@ -170,8 +172,6 @@ $$
 M_{f,p}M_{f,l}
 $$
 
-
-
 #### (c) (-1,0)
 
 #### (d)
@@ -179,9 +179,6 @@ $$
 $$
 M_{f,p}M_{f,l}M_{h,p}M_{h,l}
 $$
-
-
-
 #### (e) (3.8,-2.2)
 
 $$
@@ -193,13 +190,14 @@ M_{f,a} = M_{u,a}M_{f,p}M_{f,l}=\begin{pmatrix}
 1 & 0 & 4 \\\\
 0 & 1 & -3 \\\\
 0 & 0 & 1
-\end{pmatrix} \\
-v_f = M_{f,d}^{-1}v, v_h = M_{h,d}^{-1}v \\
+\end{pmatrix} 
+$$
+$$
+v_f = M_{f,d}^{-1}v, v_h = M_{h,d}^{-1}v
+$$
+$$
 w_fM_{f,a}v_f + w_hM_{h,a}v_h = (3.8,-2.2)
 $$
-
-
-
 #### 5.
 
 #### (a) quaternions and translational vectors 
@@ -222,7 +220,5 @@ Md remains fixed throughout the entire animation which transforms character spac
 $$
 M_i = M_{i,a}M_{i,d}^{-1}
 $$
-
-
 #### 7.  IK is applied to the head bone. 
 
