@@ -1,17 +1,17 @@
-# Exercises
+## Exercises
 
-1. 
-(a)  
+#### 1.(a)
 
-$$  
+$$
 \begin{pmatrix}
  1 & 0 &  d_x \\\\
  0 & 1 &  d_y \\\\
  1 & 0 & 1   
  \end{pmatrix}
-$$  
+$$
 
-(b)
+#### (b)
+
 $$
 \begin{pmatrix}
  cos\theta & -sin\theta & 0 \\\\
@@ -20,7 +20,8 @@ $$
  \end{pmatrix}
 $$
 
-(c)
+#### (c)
+
 $$
 \begin{pmatrix}
  s_x & 0 & 0 \\\\
@@ -29,9 +30,10 @@ $$
  \end{pmatrix}
 $$
 
-2. As $\{u,v,n\}$ is same as world-space basis, a matrix that went through Rotation Matrix would be:
+#### 2. 
 
-$$ 
+As $\{u,v,n\}$ is same as world-space basis, a matrix that went through Rotation Matrix would be:
+$$
 R * \begin{pmatrix} 
 1 & 0 & 0 \\\\
 0 & 1 & 0 \\\\ 
@@ -55,7 +57,7 @@ R^T * R * \begin{pmatrix}
 \end{pmatrix}
 $$
 
-   
+
 Answer: 
 $$
 R^T = \begin{pmatrix} 
@@ -66,8 +68,10 @@ R^T = \begin{pmatrix}
 $$
 
 
-4. As Rotation Matrix doesn't tackle affine space (ignore last column and row), intuitively, the following matrix is rotated about the y axis, which results in: 
 
+#### 3. 
+
+Rotation Matrix doesn't tackle affine space (ignore last column and row), intuitively, the following matrix is rotated about the y axis, which results in: 
 $$
 R = \begin{pmatrix}
  cos\pi & 0 & -sin\pi & 0\\\\
@@ -87,7 +91,9 @@ T = \begin{pmatrix}
  \end{pmatrix}
 $$
 
-4.
+#### 4. 
+
+
 
 
 5.
