@@ -9,19 +9,19 @@ The second one along with a principal axis would be (-4/5, 3/5, 0). (Other optio
 The last one results in as a cross product of first and second vectors. As, u and v vectors are in the same x,y plane, the cross product of xy plane is (0,0,1).
 $$
 u = \begin{pmatrix} 
-\frac{3}{5} \\
-\frac{4}{5} \\
+\frac{3}{5} \\\\
+\frac{4}{5} \\\\
 0    
 \end{pmatrix}\ 
 v = \begin{pmatrix} 
--\frac{4}{5} \\
-\frac{3}{5} \\
+-\frac{4}{5} \\\\
+\frac{3}{5} \\\\
 0    
 \end{pmatrix}
-w =
+n =
 \begin{pmatrix} 
-0 \\
-0 \\
+0 \\\\
+0 \\\\
 1  
 \end{pmatrix}
 $$
