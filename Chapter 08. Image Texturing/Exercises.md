@@ -32,9 +32,9 @@ $$
 
 #### 5.
 
-|                       Level 2                       |                       Level 3                       |
-| :-------------------------------------------------: | :-------------------------------------------------: |
-| ![Level2](./Chapter 08. Image Texturing/level2.png) | ![Level3](./Chapter 08. Image Texturing/level3.png) |
+|                     Level 2                     |                    Level 3                     |
+| :---------------------------------------------: | :--------------------------------------------: |
+| <p align="center"><img src="./level2.png" ></p> | <p align="center"><img src="./level3.png"></p> |
 
 
 
