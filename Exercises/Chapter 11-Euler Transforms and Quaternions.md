@@ -18,7 +18,7 @@ $$
 #### (c)
 
 $$
-qp = (q_v \times p_v + q_wp_v, -q_v \cdot p_v) = (-\frac{\sqrt{2}}{2},\frac{\sqrt{2}}{2},-\frac{\sqrt{2}}{2}, 0)
+qp = (q_v \times p_v + q_wp_v, -q_v \cdot p_v) = (-\frac{\sqrt{2}}{2},\frac{\sqrt{2}}{2},-\frac{\sqrt{2}}{2}, 0)\\
 q^* = (-q_v, q_w) = (-\frac{\sqrt{2}}{2},0,-\frac{\sqrt{2}}{2},\frac{\sqrt{2}}{2})
 $$
 
