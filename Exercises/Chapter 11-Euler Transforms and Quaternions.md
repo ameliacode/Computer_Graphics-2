@@ -27,9 +27,9 @@ $$
 While $q$ denotes, "rotation about a unit vector $u$ by $\theta$", $q = (\sin(\frac{\theta}{2}u, \cos(\frac{\theta}{2})))$, let $s$ denote "rotation about u by $2\pi + \theta$". We all know that $s=q$. and $s$ is rephrased as follows:
 
 $$
-s = (\sin(\frac{2\pi+\theta}{2})u, \cos(\frac{2\pi + \theta}{2})) ~\\
-  = (\sin(\pi + \frac{\theta}{2})u, \cos(\pi + \frac{\theta}{2})) ~\\
-  = (-\sin(\frac{\theta}{2})u, -\cos(\frac{\theta}{2})) ~\\
+s = (\sin(\frac{2\pi+\theta}{2})u, \cos(\frac{2\pi + \theta}{2})) ~\linebreak
+  = (\sin(\pi + \frac{\theta}{2})u, \cos(\pi + \frac{\theta}{2})) ~\linebreak
+  = (-\sin(\frac{\theta}{2})u, -\cos(\frac{\theta}{2})) ~\linebreak
   = -q 
  $$
 
