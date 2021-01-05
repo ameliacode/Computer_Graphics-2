@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> eb500b1fd7ec17dedd67ad117607549d93d84df1
 ## Chapter 13 | Exercises
 
 #### 1.

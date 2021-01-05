@@ -2,6 +2,7 @@
 
 #### 1. Figure 11.6 (b)
 
+<<<<<<< HEAD
 #### 3. 
 
 #### (a)
@@ -37,3 +38,11 @@ s = (\sin(\frac{2\pi+\theta}{2})u, \cos(\frac{2\pi + \theta}{2})) \\
   = -q
 $$
 As all components of $q$ are negated, $ s = -q$, this concludes to $q = -q$, which represent the same rotation.
+=======
+#### 2. 
+
+#### 3.
+
+#### 4.
+
+>>>>>>> eb500b1fd7ec17dedd67ad117607549d93d84df1
