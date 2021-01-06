@@ -13,9 +13,9 @@ void main()
 {
 	vec3 worldPos = (worldMat * vec4(position, 1.0)).xyz;
     	vec3 Nor = normalize(transpose(inverse(mat3(worldMat)))*normal);
-   	 vec3 Tan = normalize(transpose(inverse(mat3(worldMat)))*tangent);
+   	vec3 Tan = normalize(transpose(inverse(mat3(worldMat)))*tangent);
     	vec3 Bin = cross(Nor, Tan);
-   	 mat3 tbnMat = transpose(mat3(Tan,Bin,Nor));
+   	mat3 tbnMat = transpose(mat3(Tan,Bin,Nor));
     
     	v_lightTS = tbnMat*normalize(lightDir);
     	v_viewTS = tbnMat * normalize(eyePos - worldPos); 
