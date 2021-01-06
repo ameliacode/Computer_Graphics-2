@@ -192,7 +192,9 @@ M_{f,a} = M_{u,a}M_{f,p}M_{f,l}=\begin{pmatrix}
 1 & 0 & 4 \\\\
 0 & 1 & -3 \\\\
 0 & 0 & 1
-\end{pmatrix} \\
+\end{pmatrix} 
+$$
+$$
 v_f = M_{f,d}^{-1}v, v_h = M_{h,d}^{-1}v \\
 w_fM_{f,a}v_f + w_hM_{h,a}v_h = (3.8,-2.2)
 $$
